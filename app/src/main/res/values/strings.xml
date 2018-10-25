@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyReceipts</string>
+    <string name="receipt_title_hint">Enter receipt title</string>
+    <string name="receipt_title_label">Title</string>
+    <string name="receipt_comment_label">Comments</string>
+    <string name="receipt_description_label">Receipt Description</string>
+    <string name="receipt_description_hint">Enter a description</string>
+    <string name="new_receipt">New Receipt</string>
+    <string name="date_picker_title">Date of receipt:</string>
+    <string name="receipt_shop_hint">Enter name of shop</string>
+    <string name="receipt_shop_label">Shop</string>
+    <string name="latitude_title_text">Latitude</string>
+    <string name="longitude_title_text">Longitude</string>
+    <string name="toast_delete_receipt">Receipt deleted! </string>
+    <string name="delete_receipt">Delete receipt </string>
+    <string name="open_webview">Help </string>
+    <string name="gps_button_text">Show LOCATION ON MAP </string>
+    <string name="receipt_report_text">SEND RECEIPT REPORT </string>
+    <string name="receipt_report">%1$s!
+    The receipt was made at %2$s. Comments: %3$s the store was %4$s. Latitude: %5$s and Longitude: %6$s
+  </string>
+    <string name="send_report">Send receipt via</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
